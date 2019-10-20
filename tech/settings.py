@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'techblogap.apps.TechblogapConfig',
     'django_admin_generator',
+    'django_seed',
 ]
 
 MIDDLEWARE = [
